@@ -4,10 +4,10 @@ from textblob import TextBlob
 
 # Use below info from your own Twitter app.
 
-consumer_API_key = 'zhEVl9ytVdxVfx7OjFEtIQTVR'
-consumer_API_secret = 'Nw5bMopC2LMIiWh73InpAbUipLNWt4CVeGZaAZL3zKqla3Secx'
-access_token = '731014990539464704-b5Lyomzm6UIiBKImxW80SaEgR7DEQpW'
-access_token_secret = '8WyxYTNq5nDI9Vzt8HMtMwQVLJ4h3Eeatqq9GlKUCeDwm'
+consumer_API_key = 'zhEVl****************'
+consumer_API_secret = 'Nw5bMo**************************ecx'
+access_token = '73101*****************************EgR7DEQpW'
+access_token_secret = '*********************************UCeDwm'
 
 
 
