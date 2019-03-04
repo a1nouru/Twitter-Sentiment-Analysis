@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-Analyzing reaction to  tweets using TextBlob
+Analyzing reaction to tweets using TextBlob
 
 * How Sentiment Analysis Works
 1. Use twitter API to search for tweets with a specific mention
