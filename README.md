@@ -7,7 +7,7 @@ Analyzing reaction to  tweets using TextBlob
 3. After tokenization, textblob will calculate how often a tweet shows up based based on number of retweets and likes (Bag of Words model). From this, the measure of popularity can be determined.
 4. Finally, the measure of reaction of a tweet is printed. 
 
-* Makes sense right!!
+* Makes sense right!
 
 ##  Setup 
   Install `Tweepy`
